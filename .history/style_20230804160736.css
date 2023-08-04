@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Montserrat, sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #333;
+}
+
+.bg {
+    width:100%;
+    height:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    opacity: .2;
+}
+
+.container {
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 80px;
+    margin-bottom: 40px;
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 8px;
+    margin-bottom: 20px;
+}
+
+.progress-bar {
+    width: 360px;
+    height: 12px;
+    background-color: #d1d1d1;
+    margin: auto;
+    margin-bottom: 100px;
+    pos
+}

@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Montserrat, sans-serif;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: ;
+}
